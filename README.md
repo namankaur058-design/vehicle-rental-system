@@ -1,11 +1,10 @@
-# 🚗 Vehicle Rental Management System
-
-## 📌 Project Overview
+Vehicle Rental Management System
+Project Overview
 The Vehicle Rental Management System is a menu-driven application developed using the C programming language. It is designed to simplify and manage vehicle rental operations, including vehicle availability, customer details, rental bookings, bill calculation, and vehicle returns.
 
 The system provides an organized way to manage rental services through a simple console-based interface.
 
-## 🎯 Objectives
+ Objectives
 - Manage vehicle information and availability.
 - Display available vehicles with rental prices.
 - Register and manage customer details.
@@ -13,7 +12,7 @@ The system provides an organized way to manage rental services through a simple 
 - Calculate rental charges based on the number of days.
 - Provide an admin panel to manage vehicle records.
 
-## ✨ Features
+ Features
 - **Vehicle Management:** View, add, and update vehicle details.
 - **Customer Management:** Enter and maintain customer information.
 - **Vehicle Booking:** Rent available vehicles using their unique IDs.
@@ -21,7 +20,7 @@ The system provides an organized way to manage rental services through a simple 
 - **Vehicle Return:** Update vehicle availability after returning.
 - **Admin Panel:** Manage vehicles and monitor rental activities.
 
-## 🛠️ Technologies Used
+ Technologies Used
 - C Programming Language
 - Structures (`struct`)
 - Arrays
@@ -31,7 +30,7 @@ The system provides an organized way to manage rental services through a simple 
 - Switch Case
 - Pointers
 
-## ⚙️ How to Run the Project
+ How to Run the Project
 
 1. Clone this repository:
    ```bash
@@ -54,7 +53,7 @@ The system provides an organized way to manage rental services through a simple 
    ./vehicle_rental
    ```
 
-## 📋 Main Menu
+ Main Menu
 
 1. View Available Vehicles
 2. Rent a Vehicle
@@ -63,7 +62,7 @@ The system provides an organized way to manage rental services through a simple 
 5. Admin Panel
 6. Exit
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 Vehicle-Rental-Management-System/
@@ -72,7 +71,7 @@ Vehicle-Rental-Management-System/
 └── README.md
 ```
 
-## 🔮 Future Enhancements
+ Future Enhancements
 - File handling for permanent data storage.
 - Database integration.
 - Customer login and authentication.
